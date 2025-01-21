@@ -64,7 +64,7 @@ export const Banner = () => {
                     As a college student, I am constantly expanding my knowledge through self-study, online courses, and participating in coding competitions and hackathons. 
                     I am always excited to take on new challenges and contribute my skills to meaningful projects. 
                     Thank you for visiting my portfolio. If you have any inquiries or project opportunities, please feel free to get in touch. I'm eager to apply my skills and contribute to innovative and exciting projects!</p>
-                  <button><a href="https://drive.google.com/file/d/1ogRp9dRon3qm5a3CskvKBA2AD6_m4nHo/view?usp=drivesdk " download="resume.pdf">Resume Download</a></button>
+                  <button><a href="https://drive.google.com/file/d/1ZNQgbFgMo-qvwQVFzQkerSodogAUhnKk/view?usp=drive_link" download="resume.pdf">Resume Download</a></button>
                 </div>}
             </TrackVisibility>
           </Col>
